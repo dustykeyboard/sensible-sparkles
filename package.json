@@ -1,6 +1,6 @@
 {
   "name": "sensible-sparkles",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Sparkles, but sensible.",
   "main": "index.js",
   "scripts": {
@@ -12,14 +12,16 @@
   },
   "keywords": [
     "react",
-    "ui",
-    "sparkles",
-    "styled-components"
+    "styled-components",
+    "sparkles"
   ],
   "author": "Philip Boardman <dustykeyboard@brd.mn>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/dustykeyboard/sensible-sparkles/issues"
   },
-  "homepage": "https://github.com/dustykeyboard/sensible-sparkles#readme"
+  "homepage": "https://github.com/dustykeyboard/sensible-sparkles#readme",
+  "dependencies": {
+    "styled-components": "^4.1.3"
+  }
 }
